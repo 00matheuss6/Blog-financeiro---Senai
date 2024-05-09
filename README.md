@@ -1,2 +1,2 @@
-# Blog-financeiro---Senai
-Trabalho Blog Financeiro - Senai
+# Blog_Finan-as
+Atividade Senai - Blog de finanças (HTML e CSS)
